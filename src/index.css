@@ -18,8 +18,9 @@ code {
   border-radius: 1rem;
   text-align: center;
   width: 25%;
-  margin: 10% auto;
+  margin: 13% auto;
   padding: 1rem;
+  box-shadow: 1rem 1rem 3rem grey;
 }
 
 label {
@@ -34,8 +35,12 @@ input {
 }
 
 button {
-  padding: .2rem;
+  width: 5rem;
+  padding: .3rem;
   margin: .2rem;
+  background-color: black;
+  color: white;
+  border-radius: 1rem;
 }
 
 
