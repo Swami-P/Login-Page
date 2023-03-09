@@ -5,9 +5,37 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: .8rem;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.login-box-style{
+  border: solid 1px;
+  border-radius: 1rem;
+  text-align: center;
+  width: 25%;
+  margin: 10% auto;
+  padding: 1rem;
+}
+
+label {
+  width: 5rem;
+  display: inline-block;
+  text-align: left;
+}
+
+input {
+  padding: .2rem;
+  margin: .5rem;
+}
+
+button {
+  padding: .2rem;
+  margin: .2rem;
+}
+
+
